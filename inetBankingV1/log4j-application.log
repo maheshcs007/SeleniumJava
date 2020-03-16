@@ -1,0 +1,17 @@
+2020-03-13 12:33:06,378  INFO [main] ebanking:14 - URL is opened
+ 2020-03-13 12:33:06,484  INFO [main] ebanking:19 - entered username
+ 2020-03-13 12:33:06,556  INFO [main] ebanking:21 - entered password
+ 2020-03-13 12:33:08,001  INFO [main] ebanking:27 - login test passed
+ 2020-03-13 17:08:17,026  INFO [main] ebanking:14 - URL is opened
+ 2020-03-13 17:08:17,121  INFO [main] ebanking:19 - entered username
+ 2020-03-13 17:08:17,177  INFO [main] ebanking:21 - entered password
+ 2020-03-13 17:08:18,692  INFO [main] ebanking:27 - login test passed
+ 2020-03-13 17:09:34,721  INFO [main] ebanking:14 - URL is opened
+ 2020-03-13 17:09:34,835  INFO [main] ebanking:19 - entered username
+ 2020-03-13 17:09:34,906  INFO [main] ebanking:21 - entered password
+ 2020-03-13 17:09:36,658  INFO [main] ebanking:27 - login test passed
+ 2020-03-13 18:03:38,738  INFO [main] ebanking:14 - URL is opened
+ 2020-03-13 18:03:38,853  INFO [main] ebanking:19 - entered username
+ 2020-03-13 18:03:38,914  INFO [main] ebanking:21 - entered password
+ 2020-03-13 18:03:40,530  INFO [main] ebanking:27 - login test passed
+ 
